@@ -25,3 +25,34 @@ In addition, many games, after explaining their concepts to the player, makes th
 
 Finally, once this initiation phase is over, many games make alterations to their concepts during mid-game.
 If the game allows it, even if the difficulty itself is not scaled, it is good that in different areas the player gets the possibility of using the mechanics that they already know but in a different way, adapting to that area, being something typical of that zone and it is only useful for this specific one. This is an optional feature, but it adds more variety to the game because it temporarily breaks the monotony of using the same system throughout the game.
+
+## The difficulty curve:
+
+Once the player has acquired the necessary knowledge, the difficulty curve begins. This is very important because it is responsible for leading the pace of the game and guiding the player using his emotions, keeping him attached to the game and making him not feel monotony or repetition.
+
+As the curve is so important, if it is not well designed, the player can very easily perceive that the game is not balanced enough or that it is directly unfair, which frustrates him and will surely make him stop playing.
+
+The difficulty curve is also essential because it marks the progression in the game. If the difficulty were fixed throughout the experience, one of two things would probably happen:
+
+
+1. it’s too difficult for the player at first, and because he hasn’t been able to adapt slowly, he can’t move forward in the game and stops playing.
+2. it’s too easy and the player gets bored after a while as he looks for challenges.
+
+As I mentioned before, the difficulty has to accompany the player throughout the game and guide him. Treating it as a metaphor, we can imagine that it is a babysitter who takes a child by the hand through a park so that they does not get lost or hurt. It will take the child to a rocker, then to a swing, and so on. and the child will gradually climb into more dangerous attractions and lose their fear, but will not take them on a zip line at first because perhaps:
+1. They don't dare and wants to leave the park
+2. If they use it, they may be so scared that they don't want to know anything about the park again.
+It can also happen that the babysitter all the time makes them jump on a small children's slide and they end up getting tired.
+
+What we want is to give the player the feeling that he is overcoming increasingly difficult obstacles when they are presented to him, while learning and increasing his ability to be prepared for the next, also giving relaxed and calm moments.
+
+This, in the case of RPGs, can be done by increasing the stats of enemies each time the player advances from zone to zone. It is true that the player will also increase his stats (leveling up or equipping better objects), but what interests us is that the enemies throughout the game will do so a little faster. Thus, the player will gradually come to the idea that if he wants to continue defeating enemies, the best is to try more complex strategies and try to further optimize his use of the mechanics of the game.
+
+In case the player is unable or unwilling to use this strategic section, he always has the option to spend more time farming and increasing his stats.
+
+In addition, to continue this progression, it is important that the player is rewarded each time he overcomes a major challenge. Whatever is more difficult or at greater risk of losing the player must have a better reward or loot.
+
+This reward that the player receives (loot or skill points, for example) can lead to that, after a moment of tension such as a fight against a boss, the player has a moment of relaxation where he compares stats and thinks how to use that reward in the most profitable way, as well as see the strengths and weaknesses of his current strategy and consider whether to change it. It is still a very interesting part of the game and in many cases complicated, but it does not present the tension of a fight and is therefore a good point of relaxation for the player.
+
+This is more or less what we expect to cause:
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image11.png?raw=true)
