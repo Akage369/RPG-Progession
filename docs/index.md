@@ -55,4 +55,34 @@ This reward that the player receives (loot or skill points, for example) can lea
 
 This is more or less what we expect to cause:
 
-![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image11.png?raw=true)
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image12.png?raw=true)
+
+In addition, a trick is to gradually increase the tension and relaxation that is achieved in the peaks of the graph, in this way:
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image17.png?raw=true)
+
+Talking about difficulty, the simplest and most standard difficulty curve would be this (from easy to most difficult following a linear increment):
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image6.png?raw=true)
+
+If, on the other hand, the game is intended to be very accessible and easy at first but requires a great deal of mastery at the end to overcome it, a scheme like the following would be used:
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image24.png?raw=true)
+
+To further improve the starting curve, we can add a decrease in difficulty each time a new zone begins, as the player has to adapt.
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image22.png?raw=true)
+
+The curve can even become sharper depending on the zones and mechanics of our game and how we want the player to advance.
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image14.png?raw=true)
+
+Finally, if the game is focused on a specific player profile, an specific curve can be designed for him.
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image25.png?raw=true)
+
+In general, a trajectory like this must be achieved throughout the game, which varies between highs and lows so that the player is constantly relaxing and concentrating, keeping his attention on the game without ever reaching to get bored (with very low difficulty) or to get stressed (with excessive difficulty). This is how the flow is achieved.
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image18.png?raw=true)
+
+## Boost flow:
