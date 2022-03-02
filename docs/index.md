@@ -167,3 +167,105 @@ http://yanfly.moe/tools/enemylevelcalculator/
 
  ![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image21.png?raw=true)
 _“FlyingDream’s Monster Level Calculator Show”_
+
+## Interesting resources:
+
+- Making an apparently weak element become powerful with effort.
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image26.png?raw=true)
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image13.png?raw=true)
+________________________________________________________________________
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image8.png?raw=true)
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image7.png?raw=true)
+
+
+"Magikarp pokemon"
+https://pokemon.fandom.com/es/wiki/Magikarp
+
+"Gyarados pokemon"
+https://pokemon.fandom.com/es/wiki/Gyarados
+
+"Donnel, of Fire Emblem: Awakening"
+https://fireemblemwiki.org/wiki/Donnel
+https://twitter.com/fe_paint/status/1087547393883717633
+
+- Limit items to a certain level of the character so as not to break the balance when equipping it to a low level character.
+
+- In Pokemon, if you level up your Pokemon too much, it will disobey you some turns (grinding penalty).
+
+- In Pokemon, there is an item that you can equip to your Pokemon so that they will receive experience even if they are not directly involved in combat.
+
+- In some games like Dragon Quest, the experience that characters receive after a fight varies according to their own level so that a low level character doesn't overtake too much experience if he participates in a high level battle.
+
+- Dragon Quest does one thing very well: it knows that players are going to want to grind experience and gold, so it creates the metal slimes and gold golems, among others. Specially metal slimes are very rare enemies that players look for in various hidden areas. They easily escape from combat and are very resistant to most attacks. In addition, as the player unlocks areas, he will be able to find "evolved" metallic slimes that grant much more experience than the previous ones and are more resistant, etc. Dragon Quest takes advantage of these players' intentions and creates this other side of the game.
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image5.png?raw=true)
+
+“Metal Slime King in Dragon Quest XI”
+https://www.gamerslance.com/dragon-quest-xi-how-to-earn-exp-and-cash-quickly
+
+- Although they are not RPGs, there are two games that I have seen that have interesting concepts in progression and can be applied to all types of games.
+1. In The Witness there are puzzles that are always based on drawing lines on panels, but there are panels of various themes in which the puzzles are solved in different ways. An example of this is an area where there are four small mazes. To overcome them, you have to solve the respective puzzle of each one (which is related to its own elements). Once you have crossed all four, the game guides you to a high point where you can see them from above and makes you do another puzzle where the solution is the route you have made going through all of them in the correct way. This way of making the player not only remember what they've beaten, but using that again by combining various beaten items, makes the player notice all the progress they've made and feel good about being able to use that with ease.
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image15.png?raw=true)
+
+“The Witness mazes”
+https://www.gamezone.com/originals/the-witness-complete-walkthrough-guide-jyla/
+
+2. If the game follows a linear story which progresses along with the player, perhaps he does not return to areas where he has already been or, simply, those areas undergo changes. Consequently, dialogues with characters, objects, missions, etc. can be lost. The saga of Professor Layton usually takes this problem into account, since they are puzzle games linked to a story that progresses. In these games this is solved by adding a location where the player can go whenever he wants to solve puzzles that he has not found or that he has left unsolved and are no longer available in his initial location.
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image10.png?raw=true)
+
+"House of Puzzles in Professor Layton and Pandora's Box"
+https://www.guiasnintendo.com/0_NINTENDO_DS/profesor_layton_caja_pandora/profesor_layton_caja_pandora_sp/episodio1.html
+
+Finally, I want to give an example of an RPG that we don't usually think about much when we talk about the genre because it is very different from the rest, the Inazuma Eleven saga. In these games there are special training spots scattered around the world where you can spend points to improve a specific stat of a player. In addition, there is usually an area that is unlocked at some point in the story that allows you to raise different stats of the characters by going through a kind of dungeons and going through rooms where you have duels and at the end a match. Finally, the game also allows you to replay matches you've already done by talking to a person who takes care of that (without having to go back to each location like other games do) and you can even recruit players you've beaten, expanding your team and giving you the feeling that you are becoming more powerful. These are all ways to make the player improve their skills and progress through the game in a fun way. On the other hand, it is also important that the player does not feel that his progress suddenly disappears. This happens quite frequently in these games because many characters get injured or due to story issues they leave the team without warning you in advance and you are left without being able to use them for at least a while. As I said before, it's fine to relate progress to narrative, but you have to take things like this into account and try to fix errors like that.
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image27.png?raw=true)
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image16.png?raw=true)
+
+“Training Center in Inazuma Eleven”
+https://www.guiasnintendo.com/0_NINTENDO_DS/inazuma_eleven/inazuma_eleven_sp/centrocentella.html
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image28.png?raw=true)
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image11.png?raw=true)
+
+“Special trainings in Inazuma Eleven 3”
+https://www.guiasnintendo.com/0a_NINTENDO_3DS/inazuma_eleven_3_ogro/inazuma_eleven_3_ogro_sp/entrenamientos.html
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image20.png?raw=true)
+
+“Chain of matches in Inzauma Eleven 2”
+https://www.guiasnintendo.com/0_NINTENDO_DS/inazuma_eleven_2/inazuma_eleven_2_sp/cadena_juegos.html
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image19.png?raw=true)
+
+“Recruit of rivals in Inazuma Eleven”
+https://www.guiasnintendo.com/0_NINTENDO_DS/inazuma_eleven/inazuma_eleven_sp/fichar.html
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image4.png?raw=true)
+ 
+“An Inazuma Eleven character leaves his team”
+https://www.guiasnintendo.com/0_NINTENDO_DS/inazuma_eleven/inazuma_eleven_sp/des_10_01_personajes.html
+
+
+
+## Webgraphy:
+
+Balancing method in a project:
+https://forums.rpgmakerweb.com/index.php?threads/super-easy-enemy-balance-method.73388/
+
+Stat calculator:
+http://yanfly.moe/tools/enemylevelcalculator/
+
+Calculator operation:
+https://youtu.be/dr2ghn56oA4
+
+Difficulty curves theory:
+http://www.davetech.co.uk/difficultycurves
+
+Enemy Balancing Guide:
+https://www.rpgmakercentral.com/topic/4933-making-a-balanced-game/
+
+Flow in the video game:
+http://whats-in-a-game.com/controlling-flow/
