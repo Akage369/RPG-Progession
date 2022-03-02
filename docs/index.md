@@ -152,3 +152,18 @@ _“Skills in The Elder Scrolls V: Skyrim”
 https://es.ign.com/skyrim-special-edition/110821/feature/things-you-should-not-do-in-skyrim_
 
 Nowadays there are more specialized games with specific themes that are based on a single type of progression and broader games that use all three at once or a mixture, it all depends on how you want to approach the game. If you want more variety or chaos you can use a more Random progression. If you want to give much more importance to the decisions and strategies that the player makes, you can use the custom one. If you may want to focus more on the narrative and, therefore, you want everything to progress in a fixed and controlled way, you can choose the Programmed progression. 
+
+## Mathematical formulas:
+In order to properly increase the stats of the game elements (characters - including an increase in experience needed in each level -, objects, enemies) as the player progresses, appropriate mathematical formulas must be applied to the game so that it does not become unbalanced at a certain point. The formulas used vary in each game. Finding the right formulas for your game is a matter of deciding what curvature you want in your graph and adjusting the parameters of the formulas by doing balancing tests. This is why it is necessary to work with an orderly interface to adjust values, such as the following:
+
+ ![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image29.png?raw=true)
+ 
+_"Interface to work with the swing comfortably"_
+https://forums.rpgmakerweb.com/index.php?threads/super-easy-enemy-balance-method.73388/
+
+This "FlyingDream's Enemy Level Calculator" page is similar to an Excel document and allows us to do the necessary calculations in a very intuitive and customizable way:
+
+http://yanfly.moe/tools/enemylevelcalculator/
+
+ ![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image21.png?raw=true)
+_“FlyingDream’s Monster Level Calculator Show”_
