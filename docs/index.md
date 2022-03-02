@@ -41,6 +41,7 @@ The difficulty curve is also essential because it marks the progression in the g
 As I mentioned before, the difficulty has to accompany the player throughout the game and guide him. Treating it as a metaphor, we can imagine that it is a babysitter who takes a child by the hand through a park so that they does not get lost or hurt. It will take the child to a rocker, then to a swing, and so on. and the child will gradually climb into more dangerous attractions and lose their fear, but will not take them on a zip line at first because perhaps:
 1. They don't dare and wants to leave the park
 2. If they use it, they may be so scared that they don't want to know anything about the park again.
+
 It can also happen that the babysitter all the time makes them jump on a small children's slide and they end up getting tired.
 
 What we want is to give the player the feeling that he is overcoming increasingly difficult obstacles when they are presented to him, while learning and increasing his ability to be prepared for the next, also giving relaxed and calm moments.
