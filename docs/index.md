@@ -138,7 +138,7 @@ Random: In Fire emblem at each level the characters raise their stats randomly (
 _“Fire Emblem Fates: Birthright character leveling up”
 https://www.gamerguides.com/fire-emblem-fates-birthright/guide/the-basics/characters/leveling-up-and-stat-growth_
 
-- *Custom (choice):* Typical skill tree with different branches the player choose.
+- *Custom (Choice):* Typical skill tree with different branches the player choose.
 
  ![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image3.png?raw=true)
  
