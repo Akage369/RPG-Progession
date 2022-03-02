@@ -106,6 +106,7 @@ One of the most important things when it comes to balancing the game is to test 
 - *Exploits:* These errors are usually situations where the players are able to take advantage of a series of elements in order to benefit exaggeratedly and obtain a great advantage that was not foreseen by the designers of the game.
 
 ![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image1.gif?raw=true)
+
 _“Exploit infinite vines to Super Mario: 3D World”_
 _https://www.humoryvideojuegos.com/post/78853564125/gif-infinite-lives-super-mario-3d-world_
 
@@ -113,8 +114,41 @@ _https://www.humoryvideojuegos.com/post/78853564125/gif-infinite-lives-super-mar
 - *Uncontrolled Power Spikes* A Power Spike is a situation where one character or element in the game becomes significantly more powerful/useful than the others. This effect can be more o less desired by designers for X reasons. The problem comes when this element is not well controlled, since it can be quite easy to break the balance of the game.
  
  ![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image23.jpg?raw=true)
+ 
 _“Character from League of Legends with a Power Spike”_
 _https://www.youtube.com/watch?v=4RxXJNnGUgg_
 
 Lastly, it is important, once all the game's content has been planned as well as how the player will interact with this following a stable progress, not to add a new extra content to the game that is not related to all of the previous or that do not fit in. If new things are added, these have to have relation with the rest of game elements. If not, it will break the rhythm of the experience and the programmed progression of the game.
 
+## Types of progression:
+There are three types of methods we can apply to an RPG in order to make progression increasing stats: Programmed progression, Random progression (within limits and following guidelines) and Custom progression (generally the player chooses which stats he wants to increase, although there are games in which he does it unconsciously and it is the game that detects which stats the player uses the most and increase them).
+
+- *Programmed:* Leveling up in Dragon Quest gives you fixed stats depending on the specific level and class of the character.
+
+ ![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image2.png?raw=true)
+ 
+_“Dragon Quest XI character leveling up”
+https://wccftech.com/review/dragon-quest-xi-echoes-of-an-elusive-age/_
+
+Random: In Fire emblem at each level the characters raise their stats randomly (normally +1 point in some stats and nothing in others), although they have preferences according to their class (rarely a warrior will increase magic).
+
+ ![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image9.png?raw=true)
+ 
+_“Fire Emblem Fates: Birthright character leveling up”
+https://www.gamerguides.com/fire-emblem-fates-birthright/guide/the-basics/characters/leveling-up-and-stat-growth_
+
+- *Custom (choice):* Typical skill tree with different branches the player choose.
+
+ ![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image3.png?raw=true)
+ 
+_“Aura Kingdom Skill Tree”
+https://en.wikihow.com/r%C3%A1-level-up-quickly-in-Aura-Kingdom_
+
+- *Custom (Auto):* In The Elder Scrolls V: Skyrim, the game increases your abilities each time you use them.
+
+ ![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image30.png?raw=true)
+ 
+_“Skills in The Elder Scrolls V: Skyrim”
+https://es.ign.com/skyrim-special-edition/110821/feature/things-you-should-not-do-in-skyrim_
+
+Nowadays there are more specialized games with specific themes that are based on a single type of progression and broader games that use all three at once or a mixture, it all depends on how you want to approach the game. If you want more variety or chaos you can use a more Random progression. If you want to give much more importance to the decisions and strategies that the player makes, you can use the custom one. If you may want to focus more on the narrative and, therefore, you want everything to progress in a fixed and controlled way, you can choose the Programmed progression. 
