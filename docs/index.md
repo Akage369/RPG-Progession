@@ -262,11 +262,11 @@ http://yanfly.moe/tools/enemylevelcalculator/
 Calculator operation:
 https://youtu.be/dr2ghn56oA4
 
-Difficulty curves theory:
+Difficulty curves theory: (all charts except the last one)
 http://www.davetech.co.uk/difficultycurves
 
 Enemy Balancing Guide:
 https://www.rpgmakercentral.com/topic/4933-making-a-balanced-game/
 
-Flow in the video game:
+Flow in the video game: (last chart)
 http://whats-in-a-game.com/controlling-flow/
