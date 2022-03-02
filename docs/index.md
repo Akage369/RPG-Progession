@@ -86,3 +86,35 @@ In general, a trajectory like this must be achieved throughout the game, which v
 ![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image18.png?raw=true)
 
 ## Boost flow:
+In order to make the game progress correctly, we can do some things:
+
+- To make the player see from the beginning some path with obstacles or some blocked element of the game and, later, either for reasons of narrative or because now the player has skills or knowledge that before not, this element can be unlocked and / or usable. This gives the player a sense of progress.
+
+- You can also add elements in the game that are apparently not accessible to the player at the time he finds them, but in fact, if the player has enough knowledge, even if the game has not explained anything to the player at that point, the user can use this element as a shortcut. This allows players who are experienced or have even played before to progress more quickly and have a sense of agility.
+
+- The narrative must present new and evolving things, always accompanying what the player has to do and, above all, giving him a clear reason to do so. It is important that the narrative, mysteries or goals also progress. There are games like Super Mario Bros where the princess seem to be kidnapped from the beginning and Mario stays all the game completing stages until he reaches the final castle, but this is not exactly true. Even in these simple games with a simple narrative, there are times when at the end of the world it looks like Mario is going to rescue the princess but he has been tricked and she is in another castle. Maybe you get on board a flying ship and the next level is inside it. Maybe then the ship crashes into another world and you have to get out of there, and so on. This is the way narrative guides the player and progresses along with the gameplay.
+
+- Evolve or adapt mechanics that the player is using from the beginning and make them more complex and give the player more options.
+
+- To make the player gradually master an invariable mechanics that is used constantly, making him practicing a lot.
+
+- Encourage the player to try a mechanic that he may have had the option of using from the beginning but did not do so because he did not need it. This is great because many times the player reaches a peak of mastering a lot one mechanic and when he tries using another that does not understand too much how it works or does not know how to take advantage of it, gives him the feeling that he can still improve a lot and it may motivate him if he sees it as a personal challenge. On the other hand, if the game forces him to use that new mechanic it can be negative because the player has just mastered a mechanic and now the game makes him unable to continue using it. It is important to avoid this and give the player freedom if it is possible.
+
+## Errors:
+One of the most important things when it comes to balancing the game is to test it continuously so that there are no errors that prevent good progress. These are some of them:
+
+- *Exploits:* These errors are usually situations where the players are able to take advantage of a series of elements in order to benefit exaggeratedly and obtain a great advantage that was not foreseen by the designers of the game.
+
+![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image1.gif?raw=true)
+_“Exploit infinite vines to Super Mario: 3D World”_
+_https://www.humoryvideojuegos.com/post/78853564125/gif-infinite-lives-super-mario-3d-world_
+
+
+- *Uncontrolled Power Spikes* A Power Spike is a situation where one character or element in the game becomes significantly more powerful/useful than the others. This effect can be more o less desired by designers for X reasons. The problem comes when this element is not well controlled, since it can be quite easy to break the balance of the game.
+ 
+ ![](https://github.com/Akage369/RPG-Progression/blob/main/docs/image23.jpg?raw=true)
+_“Character from League of Legends with a Power Spike”_
+_https://www.youtube.com/watch?v=4RxXJNnGUgg_
+
+Lastly, it is important, once all the game's content has been planned as well as how the player will interact with this following a stable progress, not to add a new extra content to the game that is not related to all of the previous or that do not fit in. If new things are added, these have to have relation with the rest of game elements. If not, it will break the rhythm of the experience and the programmed progression of the game.
+
